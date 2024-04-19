@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HfIsQGLUlqq3niBbb+ZQ1Vul/ryiqUaOzaqQGJ0+udU=",
+  "Hash": "udPtfsZIP7OWhx0sJ57aQI4AeGE8O0rShO2rrsR+pMk=",
   "Source": "TestProject",
   "BasePath": "_content/TestProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TestProject\\wwwroot",
       "Source": "TestProject",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProject.styles.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProject.styles.css",
       "SourceId": "TestProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "TestProject.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProject.styles.css"
+      "OriginalItemSpec": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProject.bundle.scp.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProject.bundle.scp.css",
       "SourceId": "TestProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "TestProject.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProject.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\fonts.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\fonts.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/fonts.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fonts.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\jquery-ui.min.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\jquery-ui.min.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/jquery-ui.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\site.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\slick.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\slick.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\style.css",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\style.css",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\favicon.ico",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\calendar.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\calendar.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/calendar.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\calendar.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\calendar-check.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\calendar-check.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/calendar-check.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\calendar-check.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\card.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\card.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/card.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\card.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\caret-down.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\caret-down.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/caret-down.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\caret-down.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\chart.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\chart.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/chart.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chart.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\check-circle--grad.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\check-circle--grad.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/check-circle--grad.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\check-circle--grad.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\Classifer.png",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\Classifer.png",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/Classifer.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Classifer.png"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\coins.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\coins.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/coins.svg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\coins.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\envelope.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\envelope.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/envelope.svg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\envelope.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\exit.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\exit.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/exit.svg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\exit.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\logo.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\logo.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/logo.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\magnify.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\magnify.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/magnify.svg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\magnify.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\notice.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\notice.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/notice.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\notice.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\phone.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\phone.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/phone.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\phone.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\sort\\sort.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\sort\\sort.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/sort/sort.svg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sort\\sort.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\sort\\sort-down.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\sort\\sort-down.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/sort/sort-down.svg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sort\\sort-down.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\sort\\sort-up.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\sort\\sort-up.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/sort/sort-up.svg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sort\\sort-up.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\tag.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\tag.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/tag.svg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tag.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\user.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\user.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/user.svg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\warning.svg",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\warning.svg",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "images/warning.svg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\warning.svg"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\jquery.min.js",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\jquery.min.js",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\jquery-ui.min.js",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\jquery-ui.min.js",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "js/jquery-ui.min.js",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\script.js",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\script.js",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\site.js",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\slick.min.js",
+      "Identity": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\slick.min.js",
       "SourceId": "TestProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\",
+      "ContentRoot": "D:\\Project\\TestTask\\TestProject\\wwwroot\\",
       "BasePath": "_content/TestProject",
       "RelativePath": "js/slick.min.js",
       "AssetKind": "All",

@@ -10,3 +10,14 @@ C:\Users\boora\Desktop\Project\test\DAL\obj\Debug\net8.0\DAL.dll
 C:\Users\boora\Desktop\Project\test\DAL\obj\Debug\net8.0\refint\DAL.dll
 C:\Users\boora\Desktop\Project\test\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\boora\Desktop\Project\test\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Project\TestTask\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Project\TestTask\DAL\bin\Debug\net8.0\DAL.dll
+D:\Project\TestTask\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Project\TestTask\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TestTask\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Project\TestTask\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Project\TestTask\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Project\TestTask\DAL\obj\Debug\net8.0\DAL.dll
+D:\Project\TestTask\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Project\TestTask\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Project\TestTask\DAL\obj\Debug\net8.0\ref\DAL.dll

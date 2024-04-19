@@ -1,143 +1,143 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProject.bundle.scp.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\TestProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\fonts.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\fonts.css",
       "PackagePath": "staticwebassets\\css\\fonts.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\jquery-ui.min.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\site.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\slick.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\css\\style.css",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\favicon.ico",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\Classifer.png",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\Classifer.png",
       "PackagePath": "staticwebassets\\images\\Classifer.png"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\calendar-check.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\calendar-check.svg",
       "PackagePath": "staticwebassets\\images\\calendar-check.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\calendar.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\calendar.svg",
       "PackagePath": "staticwebassets\\images\\calendar.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\card.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\card.svg",
       "PackagePath": "staticwebassets\\images\\card.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\caret-down.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\caret-down.svg",
       "PackagePath": "staticwebassets\\images\\caret-down.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\chart.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\chart.svg",
       "PackagePath": "staticwebassets\\images\\chart.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\check-circle--grad.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\check-circle--grad.svg",
       "PackagePath": "staticwebassets\\images\\check-circle--grad.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\coins.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\coins.svg",
       "PackagePath": "staticwebassets\\images\\coins.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\envelope.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\envelope.svg",
       "PackagePath": "staticwebassets\\images\\envelope.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\exit.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\exit.svg",
       "PackagePath": "staticwebassets\\images\\exit.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\logo.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\logo.svg",
       "PackagePath": "staticwebassets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\magnify.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\magnify.svg",
       "PackagePath": "staticwebassets\\images\\magnify.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\notice.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\notice.svg",
       "PackagePath": "staticwebassets\\images\\notice.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\phone.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\phone.svg",
       "PackagePath": "staticwebassets\\images\\phone.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\sort\\sort-down.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\sort\\sort-down.svg",
       "PackagePath": "staticwebassets\\images\\sort\\sort-down.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\sort\\sort-up.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\sort\\sort-up.svg",
       "PackagePath": "staticwebassets\\images\\sort\\sort-up.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\sort\\sort.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\sort\\sort.svg",
       "PackagePath": "staticwebassets\\images\\sort\\sort.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\tag.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\tag.svg",
       "PackagePath": "staticwebassets\\images\\tag.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\user.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\user.svg",
       "PackagePath": "staticwebassets\\images\\user.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\images\\warning.svg",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\images\\warning.svg",
       "PackagePath": "staticwebassets\\images\\warning.svg"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\jquery-ui.min.js",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\jquery.min.js",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\script.js",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\site.js",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\boora\\Desktop\\Project\\test\\TestProject\\wwwroot\\js\\slick.min.js",
+      "Id": "D:\\Project\\TestTask\\TestProject\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
